@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+/home/mledizes/Bureau/Dropbox/RichMedia/RichMedia/.metadata/.plugins/org.eclipse.jdt.core
+4093843696.index
+2642386010.index

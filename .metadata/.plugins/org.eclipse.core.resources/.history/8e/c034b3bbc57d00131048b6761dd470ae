@@ -1,0 +1,8 @@
+package com.example.richmedia;
+
+public class POI 
+{
+	float timestamp;
+	float longitude;
+	float latitude;
+}
